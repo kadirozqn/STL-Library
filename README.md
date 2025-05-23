@@ -15,6 +15,7 @@ Projeyi yerel makinenize kurmak için aşağıdaki adımları izleyebilirsiniz:
     (Yukarıdaki URL'yi kendi GitHub proje URL'nizle değiştirmeyi unutmayın.)
 
 2.  İlgili örnekleri çalıştırmak için bir C++ derleyicisine (örneğin GCC veya Clang) ihtiyacınız olacaktır. Her bir klasördeki (`dequeu_STL`, `list_STL` vb.) C++ dosyalarını derleyerek örnekleri inceleyebilirsiniz.
+3.  Genel olarak bu proje için Visual Studio 2022 kullanmanızı  öneririm.
 
 ## Kullanım
 

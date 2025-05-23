@@ -36,12 +36,9 @@ Her bir STL bileşenine ait örnekler, kendi adını taşıyan klasörler içind
 
 Bu projenin gelişimine katkıda bulunmak isterseniz, lütfen bir Pull Request açmaktan çekinmeyin. Yeni örnekler, hata düzeltmeleri veya iyileştirmeler her zaman memnuniyetle karşılanır.
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
 
 ## İletişim
 
 Sorularınız veya önerileriniz için:
 
-* **GitHub Profiliniz:** [KullaniciAdiniz](https://github.com/KullaniciAdiniz) (Kendi GitHub kullanıcı adınızla değiştirmeyi unutmayın.)
+(https://github.com/kadirozqn)
